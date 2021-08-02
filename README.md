@@ -1,0 +1,5 @@
+- 👋 Hola , mi nombre es Santiago Acosta , tengo 19 años , y soy de Tucuman,Argentina.
+- 👀 Estoy interesado en el mundo de la programacion , es a lo que me gustaria dedicarme en mi vida.
+- 🌱 Actualmente estoy estudiando en la academia coderhouse , finalizando el curso de html-css , proximamente estudiando Javascript y backend.
+- 💞️ Me interesa aprender la mayor cantidad de lenguajes de programacion posibles en un futuro asi pueda ser multiuso para una empresa.
+- 📫 Email:santiagoacosta3645@gmail.com TEL:+54 3815433720
